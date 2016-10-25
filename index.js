@@ -1,5 +1,5 @@
 var server = require('fast-http'),
-  port = 80,
+  port = (process.env.PORT || 5000),
   root = __dirname,
   wordy = true;
 
