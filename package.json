@@ -1,0 +1,22 @@
+{
+  "name": "enigmatic-castle-36902",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kociolekt/enigmatic-castle-36902.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kociolekt/enigmatic-castle-36902/issues"
+  },
+  "homepage": "https://github.com/kociolekt/enigmatic-castle-36902#readme",
+  "dependencies": {
+    "fast-http": "^0.1.3"
+  }
+}
